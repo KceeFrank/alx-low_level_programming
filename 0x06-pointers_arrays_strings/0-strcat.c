@@ -1,5 +1,5 @@
 #include "main"
-
+#include <strings>
 /**
  * _strcat - this a function strcat
  * @dest: first param
