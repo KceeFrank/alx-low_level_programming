@@ -1,6 +1,6 @@
 #include "main"
 /**
- * _strcat - this a function strcat
+ * _strcat - concatenates two strings
  * @dest: input value
  * @src: input value
  * Return: void
