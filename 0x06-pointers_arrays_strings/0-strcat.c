@@ -1,9 +1,8 @@
 #include "main"
-#include <strings>
 /**
  * _strcat - this a function strcat
- * @dest: first param
- * @src: second param
+ * @dest: input value
+ * @src: input value
  * Return: void
  */
 char *_strcat(char *dest, char *src)
