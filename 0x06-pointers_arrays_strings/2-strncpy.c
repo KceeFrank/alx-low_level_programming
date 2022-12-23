@@ -1,9 +1,10 @@
 #include "main.h"
 /**
- * _strncpy - copies at most an inputted number of bytes from string src into dest.
- * @deat: input value
+ * _strncpy - copies at most an inputted number
+ * of bytes from string src into dest
+ * @dest: input value
  * @src: input value
- * @n: input value 
+ * @n: input value
  *
  * Return: dest
  */
