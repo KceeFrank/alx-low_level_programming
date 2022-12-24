@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * leet - encode a string into 1234
  * @x: the string to be encoded
@@ -8,7 +9,7 @@
 char *leet(char *x)
 {
 	int i = 0, j;
-	char leet[8] = {'0', 'l', '?', 'E', 'A', '?', '?', 'T'};
+	char leet[8] = {'O', 'L', '?', 'E', 'A', '?', '?', 'T'};
 
 	while (x[i])
 	{
